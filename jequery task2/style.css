@@ -1,0 +1,14 @@
+li.active{
+    background-color: rgb(131, 131, 179);
+    color: white;
+}
+ul {
+    list-style-type: none;
+  }
+  .list-group-item{
+    
+    display:  flex !important; 
+    align-items: center;
+    justify-content: space-between;
+
+  }
